@@ -46,8 +46,8 @@ Each contact holds the following details:
 
 
 
-  📸 Sample UI
-  ========== QUICK CONNECT ==========
+Sample UI
+-------------QUICK CONNECT--------------
 1. Add Contact
 2. List Contacts
 3. Search Contact by Name
